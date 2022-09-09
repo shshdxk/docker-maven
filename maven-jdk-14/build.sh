@@ -1,4 +1,4 @@
 #/bin/bash
-docker build -t maven:3.8.6-jdk-14 .
+docker build -t shshdxk/maven:3.8.6-jdk-14 .
 
 
